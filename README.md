@@ -3,7 +3,7 @@
 ![Platform JVM | node.js | dotnet](https://img.shields.io/badge/platform-JVM%20|%20node.js%20|%20dotnet-ccc)
 
 # About
-- A junior high school student in Japan
+- A senior high school student in Japan
 - Japanese
 
 # Languages
