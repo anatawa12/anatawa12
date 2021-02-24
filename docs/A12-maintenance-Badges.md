@@ -28,3 +28,12 @@ I mostly want to give the project to another maintainer, so If you want to maint
 [![a12 maintenance: Archived](https://anatawa12.com/short.php?q=a12-archived-svg)](https://anatawa12.com/short.php?q=a12-archived-doc)
 
 The projects Have been Archived. You shouldn't/can't make issues and Pull Requests. I want to give the project to another maintainer, so If you want to maintain the project, please ask me on Twitter.
+
+## Badge template
+
+```markdown
+[![a12 maintenance: Active](https://anatawa12.com/short.php?q=a12-active-svg)](https://anatawa12.com/short.php?q=a12-active-doc)
+[![a12 maintenance: Slowly](https://anatawa12.com/short.php?q=a12-slowly-svg)](https://anatawa12.com/short.php?q=a12-slowly-doc)
+[![a12 maintenance: Inactive](https://anatawa12.com/short.php?q=a12-inactive-svg)](https://anatawa12.com/short.php?q=a12-inactive-doc)
+[![a12 maintenance: Archived](https://anatawa12.com/short.php?q=a12-archived-svg)](https://anatawa12.com/short.php?q=a12-archived-doc)
+```
