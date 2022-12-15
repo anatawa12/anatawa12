@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/834256470580396043)](https://discord.gg/yzEdnuJMXv)
 ![OS macOS | iOS](https://img.shields.io/badge/OS-macOS%20|%20iOS-ccc)
 ![Platform JVM | node.js | dotnet](https://img.shields.io/badge/platform-JVM%20|%20node.js%20|%20dotnet-ccc)
-![Languages Koltin | TypeScript | C#](https://img.shields.io/badge/Languages-Kotlin%20|%20TypeScript%20|%20C%23-ccc)
+![Languages Rust | Koltin | TypeScript | C#](https://img.shields.io/badge/Languages-Rust%20|%20Kotlin%20|%20TypeScript%20|%20C%23-ccc)
 ![Work Student](https://img.shields.io/badge/Work-Student-ccc)
 [![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 
