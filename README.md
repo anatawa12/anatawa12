@@ -6,6 +6,7 @@
 ![Work Student](https://img.shields.io/badge/Work-Student-ccc)
 [![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anatawa12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anatawa12's GitHub stats](https://github-readme-stats.vercel.app/api?username=anatawa12&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
