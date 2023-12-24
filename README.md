@@ -1,4 +1,5 @@
 [![Twitter @kakerigawa](https://img.shields.io/twitter/follow/kakerigawa?label=Twitter)](https://twitter.com/kakerigawa)
+[![Misskey @anatawa12](https://img.shields.io/badge/Misskey-%20-white?style=social&logo=misskey&logoColor=green)](https://go.anatawa12.com/misskey-nirila)
 [![Discord](https://img.shields.io/discord/834256470580396043)](https://discord.gg/yzEdnuJMXv)
 ![OS macOS | iOS](https://img.shields.io/badge/OS-macOS%20|%20iOS-ccc)
 ![Platform JVM | node.js | dotnet](https://img.shields.io/badge/platform-JVM%20|%20node.js%20|%20dotnet-ccc)
