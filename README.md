@@ -2,9 +2,9 @@
 [![Misskey @anatawa12](https://img.shields.io/badge/Misskey-%20-white?style=social&logo=misskey&logoColor=green)](https://go.anatawa12.com/misskey.main)
 [![Discord](https://img.shields.io/discord/834256470580396043)](https://discord.gg/yzEdnuJMXv)
 ![OS macOS | iOS](https://img.shields.io/badge/OS-macOS%20|%20iOS-ccc)
-![Platform JVM | node.js | dotnet](https://img.shields.io/badge/platform-JVM%20|%20node.js%20|%20dotnet-ccc)
-![Languages Rust | Koltin | TypeScript | C#](https://img.shields.io/badge/Languages-Rust%20|%20Kotlin%20|%20TypeScript%20|%20C%23-ccc)
-![Work Student](https://img.shields.io/badge/Work-Student-ccc)
+![Platform Unity | JVM | node.js | dotnet](https://img.shields.io/badge/platform-Unity%20|%20JVM%20|%20node.js%20|%20dotnet-ccc)
+![Languages Rust | C#  | TypeScript| Koltin](https://img.shields.io/badge/Languages-Rust%20|%20C%23%20|%20TypeScript%20|%20Kotlin-ccc)
+![Work Engineer](https://img.shields.io/badge/Work-Engineer-ccc)
 [![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anatawa12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
